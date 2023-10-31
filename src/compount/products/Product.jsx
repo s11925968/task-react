@@ -19,7 +19,6 @@ export default function Product() {
           <h2>{ele.title}</h2>
           <img src={ele.image}className='w-100'/>
           </div>
-      
     })
       }
     </div>
